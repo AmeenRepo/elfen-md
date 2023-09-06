@@ -11,8 +11,8 @@ ELFEN MD - Simple whatsapp Multi Device whatsapp bot
 
 1. Scan the QR and copy it
     <br>
-<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=yellow&labelColor=green&color=black'/></a>
 
+<a href="https://hermit.adithyan.xyz/qr'"><img src="./media/QR_SCAN_ELFEN.png" align="center" width="90" circle="15"/> </a>
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
