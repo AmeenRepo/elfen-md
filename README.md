@@ -1,6 +1,6 @@
 #### ELFEN MD WHATSAPP BOT
 ELFEN MD - Simple whatsapp Multi Device whatsapp bot
-![Logo](https://ibb.co/jR5RcDV/ΣLҒΣΠ.png)
+![Logo](https://ibb.co/jR5RcDV/ΣLҒΣΠ_MD.png)
 
 
 *
