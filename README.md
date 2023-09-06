@@ -51,10 +51,10 @@ For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
 <br>
 #### For Help To Visit Whatsapp
 
-<a href='https://wa.me/916238768108?text=HEY🌠!Want-Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN-SER-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/916238768108?text=HEY🌠!Want-Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_SER-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
 #### For Help To Visit GitHub
 
-<a href='https://github.com/AmeenRepo' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN-SER-white?style=for-the-badge&logo=github&logoColor=black'/></a>
+<a href='https://github.com/AmeenRepo' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_SER-white?style=for-the-badge&logo=github&logoColor=black'/></a>
 <br>
