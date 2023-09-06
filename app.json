@@ -1,0 +1,134 @@
+{
+  "name": "Elfen-MD",
+  "description": " Whatsapp bot.",
+  "keywords": [
+    "whatsapp bot"
+  ],
+  "repository": "https://github.com/AmeenRepo/Elfen-MD",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "enter your session id",
+      "required": true,
+      "value": ""
+    },
+    "SUDO": {
+      "description": "Enter bot owner number , do you want to add more no: like this (916238768108,91987654321)",
+      "required": true,
+      "value": "916238768108"
+    },
+    "AUTOUNMUTE_MSG": {
+      "description": "AUTO UNMUTE MESSAGE UPDATE",
+      "required": true,
+      "value": "_*Group Autounmuted!👀*_"
+    },
+    "AUTOMUTE_MSG": {
+      "description": "AUTO MUTE MESSAGE UPDATE",
+      "required": true,
+      "value": "_*Group Automuted!👀*_ &gpp &gname"
+    },
+    "ANTILINK_MSG": {
+      "description": "ANTILINK MESSAGE UPDATE",
+      "required": true,
+      "value": "_*ANTILINK DETECTED*_ &gname &gpp"
+    },
+    "READ_COMMAND": {
+      "description": "Bot Read Commands",
+      "required": false,
+      "value": "true"
+    },
+    "MODE": {
+      "description": "Bot Mode Public Or Private",
+      "required": true,
+      "value": "public"
+    },
+    "OWNER": {
+      "description": "OWNER NUMBER",
+      "required": true,
+      "value": "916238768108"
+    },
+    "VERSION": {
+      "description": "version of bot",
+      "required": true,
+      "value": "v5.5.0"
+    },
+    "ALWAYS_ONLINE": {
+      "description": "show bot number last seen as always online",
+      "required": false,
+      "value": "true"
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku app name (Your bot name)",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account api key, https://dashboard.heroku.com/account (copy/paste)",
+      "required": true
+    },
+    "LOG_MSG": {
+      "description": "Show whatsapp msgs in log",
+      "required": false,
+      "value": "false"
+    },
+    "PREFIX": {
+      "description": "Bot Prefix eg:^[.,!]",
+      "required": true,
+      "value": "."
+    },
+    "BOT_INFO": {
+      "description": "botname;ownername",
+      "required": true,
+      "value": "ΣLFΣП-MD;ΛMΣΣП-ƧΣЯ;916238768108;https://i.imgur.com/tlsfqpB.jpg"
+    },
+    "STICKER_DATA": {
+      "description": "sticker package name",
+      "required": true,
+      "value": "ΣLFΣП-MD;ΛMΣΣП-ƧΣЯ"
+    },
+    "AUDIO_DATA": {
+      "description": "audio package name",
+      "required": true,
+      "value": "ΣLFΣП-MD;ΛMΣΣП-ƧΣЯ;https://i.imgur.com/tlsfqpB.jpg"
+    },
+    "READ_MSG": {
+      "description": "bot Read all messages",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_STATUS_VIEW": {
+      "description": "bot automatic read status",
+      "required": false,
+      "value": "false"
+    },
+    "REJECT_CALL": {
+      "description": "automatic reject call (spam free)",
+      "required": false,
+      "value": "true"
+    },
+    "WARN": {
+      "description": "warn count",
+      "required": true,
+      "value": "3"
+    },
+    "BRAIN_ID": {
+      "description": "dont change it brain id",
+      "required": true,
+      "value": "bid=168613&key=EfbnX54Iy9PFIFp3"
+    },
+    "SONG_THUMBNAIL": {
+      "description": "show youtube video thumbnail in song cmd",
+      "required": false,
+      "value": "false"
+    },
+    "ERROR_MESSAGE": {
+      "description": "get error alert",
+      "required": false,
+      "value": "true"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}
