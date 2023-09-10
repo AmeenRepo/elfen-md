@@ -2,6 +2,8 @@ https://user-images.githubusercontent.com/96835724/202911067-fbebff62-1566-4120-
 #### ELFEN MD WHATSAPP BOT
 ELFEN MD - Simple whatsapp Multi Device whatsapp bot
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=50&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+𝞢𝙇𝙁𝞢𝞜-𝙎𝞢𝞒;Multi+Divice+Whatsapp+Bot;Coded+By+Ameen" alt="Typing SVG" /></a>
+<br>
 <h3>BOT SUPPORT GROUP:-</h3>
 <a href='https://chat.whatsapp.com/GVxT4w51GIU3sndNPZGTnw' target="_blank"><img alt='BOT-SUPPORT-GROUP' src='https://img.shields.io/badge/-BOT_SUPPORT_GROUP-blue?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <br>
