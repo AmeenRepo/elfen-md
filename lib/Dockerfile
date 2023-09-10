@@ -1,6 +1,6 @@
-FROM quay.io/Elfen-md/Elfen-ser:latest
+FROM quay.io/elfen-md/elfen-ser:latest
 
-RUN git clone https://github.com/AmeenRepo/Elfin-MD /root/Elfin-MD
-WORKDIR /root/Elfin-MD/
+RUN git clone https://github.com/AmeenRepo/elfin-md /root/elfin-md
+WORKDIR /root/elfin-md/
 RUN yarn install --network-concurrency 1
 CMD ["node", "index.js", "--max_old_space_size=2560"]
