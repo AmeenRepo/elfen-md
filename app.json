@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/AmeenRepo/Elfen-MD",
+  "repository": "https://github.com/AmeenRepo/elfen-md",
   "stack": "container",
   "env": {
     "SESSION_ID": {
