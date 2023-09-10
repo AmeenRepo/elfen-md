@@ -1,4 +1,4 @@
-FROM quay.io/elfen-md/elfen-ser:latest
+FROM quay.io/hermit-md/hermit-ser:latest
 
 RUN git clone https://github.com/AmeenRepo/elfen-md /root/elfen-md
 WORKDIR /root/elfen-md/
